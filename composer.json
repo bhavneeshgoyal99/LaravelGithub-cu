@@ -1,10 +1,12 @@
-
-
 {
+    "name": "bhavneeshgoyal99/laravel-github-cu",
+    "description": "A Laravel package example",
+    "type": "library",
+    "license": "MIT",
     "autoload": {
-    "psr-4": {
-        "Vendor\\PackageName\\": "src/"
-    }
-}
-
+        "psr-4": {
+            "Vendor\\PackageName\\": "src/"
+        }
+    },
+    "require": {}
 }
