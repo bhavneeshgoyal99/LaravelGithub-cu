@@ -1,6 +1,6 @@
 <?php
 
-namespace Akash\LaravelGithub;
+namespace BhavneeshGoyal99\LaravelGithubCu;
 
 use Illuminate\Support\ServiceProvider;
 
